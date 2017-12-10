@@ -1,0 +1,9 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Disallow: /themes/
+Disallow: /scaffolds/
+Disallow: /public/
+Disallow: /node_modules/
+Sitemap: http://samsprite.github.io/sitemap.xml
+Sitemap: http://samsprite.github.io/baidusitemap.xml
